@@ -84,7 +84,7 @@ Since Base is built by:
 
 Coinbase
 
-Helpful actions:
+Helpful actions: 
 
 Use Coinbase Wallet
 
