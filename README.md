@@ -7,7 +7,7 @@ Here’s a clear, step-by-step breakdown of how to qualify for a Base ecosystem 
 1. Set Up a Wallet
 Use a crypto wallet like:
 
-MetaMask
+MetaMask & base app
 
 Coinbase Wallet
 
