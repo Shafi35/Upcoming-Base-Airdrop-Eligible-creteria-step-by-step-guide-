@@ -128,8 +128,6 @@ Fake activity
 
 Wallets doing identical patterns
 
-🔥 Pro Tips (Very Important)
-Quality > quantity (real usage beats spam)
 
 
 Don't stop on base higher TGE 2026
