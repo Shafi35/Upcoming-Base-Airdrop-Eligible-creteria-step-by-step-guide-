@@ -132,5 +132,5 @@ Quality > quantity (real usage beats spam)
 
 Use small but meaningful amounts
 
-
+Don't stop on base higher TGE 2026
 
