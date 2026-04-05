@@ -130,6 +130,5 @@ Quality > quantity (real usage beats spam)
 
 Use small but meaningful amounts
 
-Try new apps early
 
-Interact across different categories
+
