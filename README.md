@@ -127,8 +127,3 @@ Bots
 Fake activity
 
 Wallets doing identical patterns
-
-
-
-Don't stop on base higher TGE 2026
-
