@@ -104,7 +104,7 @@ Consistent activity (weeks/months)
 
 👉 Avoid:
 
-One-day spam transactions
+
 
 Sybil behavior (fake multiple wallets)
 
