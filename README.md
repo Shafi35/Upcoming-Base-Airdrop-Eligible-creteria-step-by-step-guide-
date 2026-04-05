@@ -10,6 +10,7 @@ so people prepare by building “on-chain activity.”
  
 🚀 Base Airdrop Eligibility Criteria (Step-by-Step)
 1. Set Up a Wallet
+
 Use a crypto wallet like:
 
 MetaMask & base app
