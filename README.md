@@ -1,6 +1,7 @@
 Base Airdrop eligible creteria step by step 
 
 Here’s a clear,
+
 step-by-step breakdown of how to qualify for a Base ecosystem airdrop. 
 While Base itself hasn’t officially confirmed a token/airdrop (as of now),
 many projects on Base do reward early users,
